@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import MiComponente from './components/MiComponente' // <-- Importa el componente
+import MiComponente from './components/MiComponente' 
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,7 +18,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-      <MiComponente /> {/* Aquí se integra el componente */}
+      <MiComponente /> {}
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
