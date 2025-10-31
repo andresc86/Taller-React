@@ -1,16 +1,16 @@
-# React + Vite
+# Proyecto React con Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto hecho con **React + Vite**, donde se practicó la creación de una aplicación web moderna con componentes reutilizables, estilos personalizados y una estructura ordenada.
 
-Currently, two official plugins are available:
+Durante el desarrollo se aprendió sobre:
+- Cómo crear y organizar componentes en React  
+- Cómo conectar y desplegar el proyecto en **Netlify**  
+- Cómo usar **GitHub** para subir y controlar versiones del proyecto 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Enlace del proyecto en Netlify
+[Ver proyecto en línea](https://steady-scone-97b879.netlify.app)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Evidencia del proyecto
+![Evidencia del proyecto](./evidencias/netiflyev.png)
