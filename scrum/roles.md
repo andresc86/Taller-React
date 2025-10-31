@@ -1,0 +1,3 @@
+- Product Owner: Juan Sebastián Cano
+- Scrum Master: Andrés Cifuentes
+- Equipo de desarrollo: Wilmer David Barco
